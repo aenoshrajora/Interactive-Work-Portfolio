@@ -89,7 +89,7 @@ export default class IntroUI extends DisplayObject {
         name.appendChild(occupation);
 
         occupation.classList.add('developer-occupation');
-        occupation.innerHTML = 'DATA SCIENTIST';
+        occupation.innerHTML = 'Security Analyst';
     }
 
     _initShowIntroButton() {

@@ -113,7 +113,7 @@ const sounds = [
     // Music
     'music/FedUp.mp3',
     'music/the-stomp.mp3',
-    'music/courtesy_call.mp3',
+    'music/courtesy-call.mp3',
     'music/carol-of-the-bells.mp3',
 
     // Sounds
