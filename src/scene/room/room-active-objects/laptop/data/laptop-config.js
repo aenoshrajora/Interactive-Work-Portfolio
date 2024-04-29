@@ -58,8 +58,8 @@ const LAPTOP_SCREEN_MUSIC_CONFIG = {
 const MUSIC_CONFIG = {
     [MUSIC_TYPE.CarolOfTheBells]: {
         fileName: 'music/carol-of-the-bells',
-        song: 'Come and get your love',
-        artist: 'Redbone',
+        song: 'Carol Of The Bells',
+        artist: 'Lindsey Stirling',
     },
     [MUSIC_TYPE.FedUp]: {
         fileName: 'music/FedUp',

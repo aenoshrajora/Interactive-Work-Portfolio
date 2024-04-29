@@ -114,7 +114,7 @@ const sounds = [
     'music/FedUp.mp3',
     'music/the-stomp.mp3',
     'music/courtesy_call.mp3',
-    'music/come-and-get-your-love.mp3',
+    'music/carol-of-the-bells.mp3',
 
     // Sounds
     'keyboard-key-press.mp3',
