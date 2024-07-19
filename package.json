@@ -27,6 +27,7 @@
         "cannon-es": "^0.20.0",
         "cannon-es-debugger": "^1.0.0",
         "ismobilejs": "^1.1.1",
+        "package.json": "^2.0.1",
         "pdfjs-dist": "^3.7.107",
         "three": "^0.150.0",
         "tweakpane": "^3.1.7",
